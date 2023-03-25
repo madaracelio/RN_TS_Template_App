@@ -1,10 +1,18 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "App name",
     "slug": "App-name",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icons.jpg",
+=======
+    "name": "my-app",
+    "slug": "my-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+>>>>>>> 32baf2820dfd9cdf31b673d6f9ee6c3996b13b7f
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
